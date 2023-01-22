@@ -13,8 +13,10 @@
 
 
 ## To run this project:
-Import project in IntellijIdea or any other IDEs. Then navigate to the java file named SpringEmployeeCrudAppApplication.java : <br >
+Import project in Intellij Idea or any other IDE. Then navigate to the java file named SpringEmployeeCrudAppApplication.java : <br >
+
 Employee-Department-Management/src/main/java/com/karmanya/springemployeecrudapp/SpringEmployeeCrudAppApplication.java <br >
+
 Run the given file.
 
 Then open ```localhost:8080``` in any browser or in postman.
